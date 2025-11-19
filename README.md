@@ -2,7 +2,7 @@
 ====================
 
 A Python tool that automatically converts images to 9-color palette and 
-draws them on stegi.1up.vision canvas using mouse automation.
+draws them on stegi.1up.vision (r/place similar) canvas using mouse automation.
 
 Features
 --------
